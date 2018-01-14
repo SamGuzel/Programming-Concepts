@@ -1,0 +1,6 @@
+D:\Uni\Pro\PC\T1\Debug\Debug\obj\Debug\Debug.csproj.CoreCompileInputs.cache
+D:\Uni\Pro\PC\T1\Debug\Debug\bin\Debug\Debug.exe.config
+D:\Uni\Pro\PC\T1\Debug\Debug\bin\Debug\Debug.exe
+D:\Uni\Pro\PC\T1\Debug\Debug\bin\Debug\Debug.pdb
+D:\Uni\Pro\PC\T1\Debug\Debug\obj\Debug\Debug.exe
+D:\Uni\Pro\PC\T1\Debug\Debug\obj\Debug\Debug.pdb

@@ -1,0 +1,7 @@
+D:\Uni\Pro\PC\T4\WeightLoss\WeightLoss\bin\Debug\WeightLoss.exe.config
+D:\Uni\Pro\PC\T4\WeightLoss\WeightLoss\bin\Debug\WeightLoss.exe
+D:\Uni\Pro\PC\T4\WeightLoss\WeightLoss\bin\Debug\WeightLoss.pdb
+D:\Uni\Pro\PC\T4\WeightLoss\WeightLoss\obj\Debug\WeightLoss.csprojResolveAssemblyReference.cache
+D:\Uni\Pro\PC\T4\WeightLoss\WeightLoss\obj\Debug\WeightLoss.csproj.CoreCompileInputs.cache
+D:\Uni\Pro\PC\T4\WeightLoss\WeightLoss\obj\Debug\WeightLoss.exe
+D:\Uni\Pro\PC\T4\WeightLoss\WeightLoss\obj\Debug\WeightLoss.pdb

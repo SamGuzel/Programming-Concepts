@@ -1,0 +1,7 @@
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T5\SumPosNeg\SumPosNeg\bin\Debug\SumPosNeg.exe.config
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T5\SumPosNeg\SumPosNeg\bin\Debug\SumPosNeg.exe
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T5\SumPosNeg\SumPosNeg\bin\Debug\SumPosNeg.pdb
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T5\SumPosNeg\SumPosNeg\obj\Debug\SumPosNeg.csprojResolveAssemblyReference.cache
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T5\SumPosNeg\SumPosNeg\obj\Debug\SumPosNeg.csproj.CoreCompileInputs.cache
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T5\SumPosNeg\SumPosNeg\obj\Debug\SumPosNeg.exe
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T5\SumPosNeg\SumPosNeg\obj\Debug\SumPosNeg.pdb

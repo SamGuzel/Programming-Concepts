@@ -1,0 +1,7 @@
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T7\ReverseProgram\ReverseProgram\bin\Debug\ReverseProgram.exe.config
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T7\ReverseProgram\ReverseProgram\bin\Debug\ReverseProgram.exe
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T7\ReverseProgram\ReverseProgram\bin\Debug\ReverseProgram.pdb
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T7\ReverseProgram\ReverseProgram\obj\Debug\ReverseProgram.csprojResolveAssemblyReference.cache
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T7\ReverseProgram\ReverseProgram\obj\Debug\ReverseProgram.csproj.CoreCompileInputs.cache
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T7\ReverseProgram\ReverseProgram\obj\Debug\ReverseProgram.exe
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T7\ReverseProgram\ReverseProgram\obj\Debug\ReverseProgram.pdb

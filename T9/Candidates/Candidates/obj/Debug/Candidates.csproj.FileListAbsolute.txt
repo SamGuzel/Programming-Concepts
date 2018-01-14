@@ -1,0 +1,7 @@
+D:\Uni\Pro\TutorialsTasks\ProgrammingTutorials\T10\Candidates\Candidates\bin\Debug\Candidates.exe.config
+D:\Uni\Pro\TutorialsTasks\ProgrammingTutorials\T10\Candidates\Candidates\bin\Debug\Candidates.exe
+D:\Uni\Pro\TutorialsTasks\ProgrammingTutorials\T10\Candidates\Candidates\bin\Debug\Candidates.pdb
+D:\Uni\Pro\TutorialsTasks\ProgrammingTutorials\T10\Candidates\Candidates\obj\Debug\Candidates.csprojResolveAssemblyReference.cache
+D:\Uni\Pro\TutorialsTasks\ProgrammingTutorials\T10\Candidates\Candidates\obj\Debug\Candidates.csproj.CoreCompileInputs.cache
+D:\Uni\Pro\TutorialsTasks\ProgrammingTutorials\T10\Candidates\Candidates\obj\Debug\Candidates.exe
+D:\Uni\Pro\TutorialsTasks\ProgrammingTutorials\T10\Candidates\Candidates\obj\Debug\Candidates.pdb

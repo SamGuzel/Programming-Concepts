@@ -1,0 +1,7 @@
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T6\ValidatePercentage\ValidatePercentage\bin\Debug\ValidatePercentage.exe.config
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T6\ValidatePercentage\ValidatePercentage\bin\Debug\ValidatePercentage.exe
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T6\ValidatePercentage\ValidatePercentage\bin\Debug\ValidatePercentage.pdb
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T6\ValidatePercentage\ValidatePercentage\obj\Debug\ValidatePercentage.csprojResolveAssemblyReference.cache
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T6\ValidatePercentage\ValidatePercentage\obj\Debug\ValidatePercentage.csproj.CoreCompileInputs.cache
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T6\ValidatePercentage\ValidatePercentage\obj\Debug\ValidatePercentage.exe
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T6\ValidatePercentage\ValidatePercentage\obj\Debug\ValidatePercentage.pdb

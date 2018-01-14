@@ -1,0 +1,13 @@
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T6\Interest\Interest\bin\Debug\Interest.exe.config
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T6\Interest\Interest\bin\Debug\Interest.exe
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T6\Interest\Interest\bin\Debug\Interest.pdb
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T6\Interest\Interest\obj\Debug\Interest.csproj.CoreCompileInputs.cache
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T6\Interest\Interest\obj\Debug\Interest.exe
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T6\Interest\Interest\obj\Debug\Interest.pdb
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T6\Interest\Interest\bin\Debug\Interest.exe.config
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T6\Interest\Interest\bin\Debug\Interest.exe
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T6\Interest\Interest\bin\Debug\Interest.pdb
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T6\Interest\Interest\obj\Debug\Interest.csprojResolveAssemblyReference.cache
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T6\Interest\Interest\obj\Debug\Interest.csproj.CoreCompileInputs.cache
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T6\Interest\Interest\obj\Debug\Interest.exe
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T6\Interest\Interest\obj\Debug\Interest.pdb

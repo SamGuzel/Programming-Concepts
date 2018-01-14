@@ -1,0 +1,6 @@
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T6\DiceMatch\DiceMatch\bin\Debug\DiceMatch.exe.config
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T6\DiceMatch\DiceMatch\bin\Debug\DiceMatch.exe
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T6\DiceMatch\DiceMatch\bin\Debug\DiceMatch.pdb
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T6\DiceMatch\DiceMatch\obj\Debug\DiceMatch.csproj.CoreCompileInputs.cache
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T6\DiceMatch\DiceMatch\obj\Debug\DiceMatch.exe
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T6\DiceMatch\DiceMatch\obj\Debug\DiceMatch.pdb

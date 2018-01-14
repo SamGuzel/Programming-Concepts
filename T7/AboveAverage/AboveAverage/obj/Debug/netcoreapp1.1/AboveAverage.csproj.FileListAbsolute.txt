@@ -1,0 +1,10 @@
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T7\AboveAverage\AboveAverage\bin\Debug\netcoreapp1.1\AboveAverage.deps.json
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T7\AboveAverage\AboveAverage\bin\Debug\netcoreapp1.1\AboveAverage.runtimeconfig.json
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T7\AboveAverage\AboveAverage\bin\Debug\netcoreapp1.1\AboveAverage.runtimeconfig.dev.json
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T7\AboveAverage\AboveAverage\bin\Debug\netcoreapp1.1\AboveAverage.dll
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T7\AboveAverage\AboveAverage\bin\Debug\netcoreapp1.1\AboveAverage.pdb
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T7\AboveAverage\AboveAverage\obj\Debug\netcoreapp1.1\AboveAverage.csprojResolveAssemblyReference.cache
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T7\AboveAverage\AboveAverage\obj\Debug\netcoreapp1.1\AboveAverage.csproj.CoreCompileInputs.cache
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T7\AboveAverage\AboveAverage\obj\Debug\netcoreapp1.1\AboveAverage.AssemblyInfo.cs
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T7\AboveAverage\AboveAverage\obj\Debug\netcoreapp1.1\AboveAverage.dll
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T7\AboveAverage\AboveAverage\obj\Debug\netcoreapp1.1\AboveAverage.pdb

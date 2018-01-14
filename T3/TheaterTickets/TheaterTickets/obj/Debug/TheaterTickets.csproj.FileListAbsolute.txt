@@ -1,0 +1,7 @@
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T3\TheaterTickets\TheaterTickets\obj\Debug\TheaterTickets.csprojResolveAssemblyReference.cache
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T3\TheaterTickets\TheaterTickets\obj\Debug\TheaterTickets.csproj.CoreCompileInputs.cache
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T3\TheaterTickets\TheaterTickets\bin\Debug\TheaterTickets.exe.config
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T3\TheaterTickets\TheaterTickets\bin\Debug\TheaterTickets.exe
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T3\TheaterTickets\TheaterTickets\bin\Debug\TheaterTickets.pdb
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T3\TheaterTickets\TheaterTickets\obj\Debug\TheaterTickets.exe
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T3\TheaterTickets\TheaterTickets\obj\Debug\TheaterTickets.pdb

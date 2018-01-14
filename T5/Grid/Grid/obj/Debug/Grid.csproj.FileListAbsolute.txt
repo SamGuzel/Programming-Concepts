@@ -1,0 +1,14 @@
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T5\Grid\Grid\bin\Debug\Grid.exe.config
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T5\Grid\Grid\bin\Debug\Grid.exe
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T5\Grid\Grid\bin\Debug\Grid.pdb
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T5\Grid\Grid\obj\Debug\Grid.csprojResolveAssemblyReference.cache
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T5\Grid\Grid\obj\Debug\Grid.csproj.CoreCompileInputs.cache
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T5\Grid\Grid\obj\Debug\Grid.exe
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T5\Grid\Grid\obj\Debug\Grid.pdb
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T5\Grid\Grid\bin\Debug\Grid.exe.config
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T5\Grid\Grid\bin\Debug\Grid.exe
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T5\Grid\Grid\bin\Debug\Grid.pdb
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T5\Grid\Grid\obj\Debug\Grid.csprojResolveAssemblyReference.cache
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T5\Grid\Grid\obj\Debug\Grid.csproj.CoreCompileInputs.cache
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T5\Grid\Grid\obj\Debug\Grid.exe
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T5\Grid\Grid\obj\Debug\Grid.pdb

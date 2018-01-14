@@ -1,0 +1,7 @@
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T5\Isosceles\Isosceles\bin\Debug\Isosceles.exe.config
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T5\Isosceles\Isosceles\bin\Debug\Isosceles.exe
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T5\Isosceles\Isosceles\bin\Debug\Isosceles.pdb
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T5\Isosceles\Isosceles\obj\Debug\Isosceles.csprojResolveAssemblyReference.cache
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T5\Isosceles\Isosceles\obj\Debug\Isosceles.csproj.CoreCompileInputs.cache
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T5\Isosceles\Isosceles\obj\Debug\Isosceles.exe
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingTutorials\T5\Isosceles\Isosceles\obj\Debug\Isosceles.pdb

@@ -1,0 +1,14 @@
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T4\HolidayCheck\HolidayCheck\bin\Debug\HolidayCheck.exe.config
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T4\HolidayCheck\HolidayCheck\bin\Debug\HolidayCheck.exe
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T4\HolidayCheck\HolidayCheck\bin\Debug\HolidayCheck.pdb
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T4\HolidayCheck\HolidayCheck\obj\Debug\HolidayCheck.csprojResolveAssemblyReference.cache
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T4\HolidayCheck\HolidayCheck\obj\Debug\HolidayCheck.csproj.CoreCompileInputs.cache
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T4\HolidayCheck\HolidayCheck\obj\Debug\HolidayCheck.exe
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T4\HolidayCheck\HolidayCheck\obj\Debug\HolidayCheck.pdb
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T4\HolidayCheck\HolidayCheck\bin\Debug\HolidayCheck.exe.config
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T4\HolidayCheck\HolidayCheck\bin\Debug\HolidayCheck.exe
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T4\HolidayCheck\HolidayCheck\bin\Debug\HolidayCheck.pdb
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T4\HolidayCheck\HolidayCheck\obj\Debug\HolidayCheck.csprojResolveAssemblyReference.cache
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T4\HolidayCheck\HolidayCheck\obj\Debug\HolidayCheck.csproj.CoreCompileInputs.cache
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T4\HolidayCheck\HolidayCheck\obj\Debug\HolidayCheck.exe
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T4\HolidayCheck\HolidayCheck\obj\Debug\HolidayCheck.pdb

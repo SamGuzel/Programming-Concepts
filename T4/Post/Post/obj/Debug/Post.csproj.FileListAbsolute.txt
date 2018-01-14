@@ -1,0 +1,7 @@
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T4\Post\Post\bin\Debug\Post.exe.config
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T4\Post\Post\bin\Debug\Post.exe
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T4\Post\Post\bin\Debug\Post.pdb
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T4\Post\Post\obj\Debug\Post.csprojResolveAssemblyReference.cache
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T4\Post\Post\obj\Debug\Post.csproj.CoreCompileInputs.cache
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T4\Post\Post\obj\Debug\Post.exe
+D:\Uni\Pro\Tutorials & Tasks\ProgrammingConcepts\T4\Post\Post\obj\Debug\Post.pdb

@@ -1,0 +1,10 @@
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T10\RateCNoExceptionss\RateCNoExceptionss\bin\Debug\netcoreapp1.1\RateCNoExceptionss.deps.json
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T10\RateCNoExceptionss\RateCNoExceptionss\bin\Debug\netcoreapp1.1\RateCNoExceptionss.runtimeconfig.json
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T10\RateCNoExceptionss\RateCNoExceptionss\bin\Debug\netcoreapp1.1\RateCNoExceptionss.runtimeconfig.dev.json
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T10\RateCNoExceptionss\RateCNoExceptionss\obj\Debug\netcoreapp1.1\RateCNoExceptionss.csprojResolveAssemblyReference.cache
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T10\RateCNoExceptionss\RateCNoExceptionss\obj\Debug\netcoreapp1.1\RateCNoExceptionss.csproj.CoreCompileInputs.cache
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T10\RateCNoExceptionss\RateCNoExceptionss\obj\Debug\netcoreapp1.1\RateCNoExceptionss.AssemblyInfo.cs
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T10\RateCNoExceptionss\RateCNoExceptionss\bin\Debug\netcoreapp1.1\RateCNoExceptionss.dll
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T10\RateCNoExceptionss\RateCNoExceptionss\bin\Debug\netcoreapp1.1\RateCNoExceptionss.pdb
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T10\RateCNoExceptionss\RateCNoExceptionss\obj\Debug\netcoreapp1.1\RateCNoExceptionss.dll
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T10\RateCNoExceptionss\RateCNoExceptionss\obj\Debug\netcoreapp1.1\RateCNoExceptionss.pdb

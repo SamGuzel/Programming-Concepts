@@ -1,0 +1,7 @@
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T10\RateC\RateC\bin\Debug\RateC.exe.config
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T10\RateC\RateC\bin\Debug\RateC.exe
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T10\RateC\RateC\bin\Debug\RateC.pdb
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T10\RateC\RateC\obj\Debug\RateC.csprojResolveAssemblyReference.cache
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T10\RateC\RateC\obj\Debug\RateC.csproj.CoreCompileInputs.cache
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T10\RateC\RateC\obj\Debug\RateC.exe
+C:\Users\Sam  Guzel\Desktop\UNI Programming concepts\For Test\T10\RateC\RateC\obj\Debug\RateC.pdb
